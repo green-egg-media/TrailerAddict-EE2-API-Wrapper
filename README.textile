@@ -1,0 +1,13 @@
+h1. TrailerAddict EE2 API Wrapper
+
+Who doesn't like trailers? TrailerAddict.com has them all, and they have a handy and easy to use API for you to display them on your website. This EE2 plugin abstracts the API into an easy to use plugin.
+
+h2. Authors
+
+* "Adam Fairholm (Green Egg Media)":http://twitter.com/greeneggmedia
+
+h2. Documentation
+
+Find the documentation here:
+
+"http://www.greeneggmedia.com/code/traileraddict-ee2-api-wrapper-plugin":http://www.greeneggmedia.com/code/traileraddict-ee2-api-wrapper-plugin
